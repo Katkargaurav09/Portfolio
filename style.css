@@ -591,11 +591,11 @@ main {
  * education and experience 
  */
 
-.timeline {
+.timeline, .certificates {
   margin-bottom: 30px;
 }
 
-.timeline .title-wrapper {
+.timeline .title-wrapper, .certificates .title-wrapper {
   display: flex;
   align-items: center;
   gap: 15px;
